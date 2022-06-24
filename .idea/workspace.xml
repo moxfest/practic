@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a9bede28-798c-475a-8fa3-d945e7e88892" name="Changes" comment="2 commit">
+      <change afterPath="$PROJECT_DIR$/Components/General/DarkMode.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/General/HeaderWrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/TodoItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/clonium/Game/Box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Components/clonium/Game/Square.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Store/todoSlice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hooks/hooks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/clonium.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/todo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/Box.module.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/responsive.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/themes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2AqPZCeGarSuTXPNEaZhaBKwKti" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2021.2.3\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\abdul\Desktop\Cron\frontend\styles" />
+      <recent name="C:\Users\abdul\Desktop\Cron\frontend\Components\clonium" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\abdul\Desktop\Cron\frontend\pages" />
+      <recent name="C:\Users\abdul\Desktop\Cron\frontend\Components\clonium" />
+      <recent name="C:\Users\abdul\Desktop\Cron\frontend\Components\General" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a9bede28-798c-475a-8fa3-d945e7e88892" name="Changes" comment="" />
+      <created>1655734195425</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655734195425</updated>
+      <workItem from="1655734196876" duration="19310000" />
+      <workItem from="1655829624675" duration="4742000" />
+      <workItem from="1655898314561" duration="18625000" />
+      <workItem from="1656038955877" duration="1163000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 commit" />
+  </component>
+</project>

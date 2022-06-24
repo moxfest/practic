@@ -1,0 +1,182 @@
+@import '~antd/dist/antd.dark.css';
+@import '~antd/dist/antd.compact.css';
+@import "responsive";
+
+
+ul,li{
+  list-style: none;
+}
+html[dark='yes'] {
+  --themeBack: black;
+  --colorText: white;
+  --colorBtn: #8DFD1B;
+}
+
+html[dark='no'] {
+  --themeBack: white;
+  --colorText: black;
+  --colorBtn: #8DFD1B;
+}
+a {
+  color: var(--colorText);
+  text-decoration: none;
+
+}
+ul{
+  margin: 0;
+  padding: 0;
+}
+span{
+  line-height: 2;
+  margin: 0;
+  padding: 0;
+  color: var(--colorText);
+}
+html,
+body {
+height: 100%;
+  padding: 0;
+  margin: 0;
+}
+body{
+  font-weight: 400;
+  font-size: 16px;
+min-width: 320px;
+  position: relative;
+  line-height: 1.65;
+  overflow-x: hidden;
+opacity: 1;
+}
+* {
+  box-sizing: border-box;
+  font-family: Audiowide;
+}
+
+///------------------
+#__next {
+
+  background-color: var(--themeBack);
+  color: var(--colorText);
+  height: 100%;
+  overflow-x: hidden;
+}
+.container{
+  margin: 0 auto;
+  max-width: 1140px;
+}
+.header{
+  background-color: var(--themeBack);
+  height: 90px;
+padding-top: 10px;
+  position: relative;
+}
+.content{
+  background-color: var(--themeBack);
+}
+.header_wrapper{
+  align-items: center;
+  display: flex;
+  .menu_list{
+
+    display: flex;
+    margin-right: 100px;
+  }
+  justify-content: space-between;
+}
+.menu_container{
+  align-items: center;
+.darkmode{
+  position: relative;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+span:hover{
+    color: #177ddc;;
+}
+}
+
+  display: flex;
+  ul>li{
+    margin-right: 50px;
+    align-items: center;
+border-color: var(--colorText);
+  }
+
+
+}
+.input_send{
+
+padding: 20px;
+  border-radius: 14px;
+  border: 1px solid var(--colorText);
+  height:102px ;
+  label{
+    align-items: center;
+    display: flex;
+  }
+  input{
+    margin-left: 5px;
+    border-radius: 5px;
+    width: 100%;
+    border:0;
+    margin: 5px;
+    color: black;
+    border:1px solid var(--colorText);
+  }
+  button{
+    margin: 5px;
+    background-color: #177ddc;
+    box-shadow: none;
+  border:0;
+    border-radius: 5px;
+    float:right;
+  }
+  input:focus{
+  outline-color: #177ddc;
+  }
+  .circle{
+    display: block;
+    width: 20px;
+    height: 20px;
+    border: 2px solid var(--colorText);
+    border-radius: 50%;
+  }
+  .icon_group{
+    margin-left: 25px;
+    margin-top: 5px;
+  }
+
+}
+
+.span_delete{
+  cursor: pointer;
+}
+.text_task{
+  margin-left: 15px;
+}
+.delete_icon{
+transform: scale(1.5)
+}
+.red{
+
+  background-color: red;
+}
+.blue{
+
+  background-color: blue;
+}
+.purple{
+  background-color: purple;
+}
+.yellow{
+  background-color: yellow;
+}
+canvas {
+
+  height: 600px;
+}
+
+.activeStep{
+  background-color: bisque;
+  cursor: pointer;
+}
