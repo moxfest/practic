@@ -1,1 +1,1 @@
-import {useLayoutEffect, useState} from "react";const UseTheme = () => {  const [theme,setTheme]=useState('dark')  useLayoutEffect(()=>{    document.documentElement.setAttribute('data-theme',theme)  },[theme])  к};export default UseTheme;
+import {useLayoutEffect, useState} from "react";export const useTheme = () => {  const [theme,setTheme]=useState('yes')  useLayoutEffect(()=>{    document.documentElement.setAttribute('dark',theme)  },[theme])  return {theme,setTheme};};

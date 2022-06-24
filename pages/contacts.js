@@ -1,0 +1,1 @@
+import Meta from "../utils/Meta";const Contacts = () => {  return (    <div className="main">      <Meta title={"Contacts"} description={'dadadada'}/>      contacts    </div>  );};export default Contacts;
